@@ -11,7 +11,8 @@ I am currently in Final Year studying Computer Science and Engineering. I have k
 
 - 👨🏻‍🔧 I love to learn and work on different projects.
 
-- 🖊️ Recently I started writing blogs
+- 🖊️ Recently I started writing blogs [![Generic badge](https://img.shields.io/badge/DEV-black.svg?style=for-the-badge)](https://dev.to/vaishnavme)
+
 
 ### Let's Connect 😀
 
