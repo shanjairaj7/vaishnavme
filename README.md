@@ -5,9 +5,11 @@ I am currently in Final Year studying Computer Science and Engineering. I have k
 #### What I'm up to? 
 
 
-- ☘️ I’m currently learning ![Generic badge](https://img.shields.io/badge/Javascript-yellow.svg?style=for-the-badge) 
+- ☘️ I’m currently learning ![Generic badge](https://img.shields.io/badge/Javascript-yellow.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/ReactJs-blue.svg?style=for-the-badge) 
 
--  🎓 I’m looking for Someone who can ***mentor*** me in learning **Full Stack Web development**
+ 
+
+-  🎓 I’m looking for **Job**
 
 - 👨🏻‍🔧 I love to learn and work on different projects.
 
