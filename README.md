@@ -21,7 +21,8 @@ I am currently in Final Year studying Computer Science and Engineering. I have k
 Feel free to have productive talk or just a friendly Hi 👋
 
 [![Generic badge](https://img.shields.io/badge/Linkedin-blue.svg?style=for-the-badge)](https://www.linkedin.com/in/vaishnav-chandurkar/)
-
+[![Generic badge](https://img.shields.io/badge/DEV-black.svg?style=for-the-badge)](https://dev.to/vaishnavme)
+[![Generic badge](https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge)](https://twitter.com/vaishnav21_?s=09)
 
 
 
