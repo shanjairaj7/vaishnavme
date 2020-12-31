@@ -5,7 +5,7 @@ I am currently in Final Year studying Computer Science and Engineering. I have k
 #### What I'm up to? 
 
 
-- ☘️ I’m currently learning ![Generic badge](https://img.shields.io/badge/Javascript-yellow.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/ReactJs-blue.svg?style=for-the-badge) 
+- ☘️ I’m currently learning <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 -  🎓 I’m looking for **Job**
 
@@ -20,9 +20,9 @@ I am currently in Final Year studying Computer Science and Engineering. I have k
 
 Feel free to have productive talk or just a friendly Hi 👋
 
-[![Generic badge](https://img.shields.io/badge/Linkedin-blue.svg?style=for-the-badge)](https://www.linkedin.com/in/vaishnav-chandurkar/)
+[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vaishnav-chandurkar/)
 [![Generic badge](https://img.shields.io/badge/DEV-black.svg?style=for-the-badge)](https://dev.to/vaishnavme)
-[![Generic badge](https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge)](https://twitter.com/vaishnav21_?s=09)
+[<img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/vaishnav21_?s=09)
 
 
 
