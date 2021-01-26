@@ -15,6 +15,7 @@ I am currently in Final Year studying Computer Science and Engineering. I have k
 
 ## Recent Projects
 - [Quizzer App](https://quizzerme.netlify.app) - Simple Quiz App built with HTML, CSS and Vanilla JavaScript.
+- [Travel Icons](https://travelicons.netlify.app/) - Icons/Symbol Interpreter a PWA ReactJs app.
 
 
 ### Let's Connect 😀
