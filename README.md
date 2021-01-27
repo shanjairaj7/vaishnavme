@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Vaishnav Chandurkar
 
-I am currently in Final Year studying Computer Science and Engineering. I have keen interest in Design and Development.  I spend most of my time, Learning and Experimenting with JavaScript and React Js. Building projects on what I learned. I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction.
+I am currently in Final Year studying Computer Science and Engineering. I have keen interest in Design and Development.  
+I spend most of my time, Learning and Experimenting with JavaScript and React Js. Building projects on what I learned. I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction.
 
 ## What I'm up to? 
 
