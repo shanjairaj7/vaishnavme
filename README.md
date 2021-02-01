@@ -6,13 +6,13 @@ I spend most of my time, Learning and Experimenting with JavaScript and React Js
 ## What I'm up to? 
 
 
-- ☘️ I’m currently learning <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+- ☘️ I’m currently learning <b>JavaScript</b> & <b>React Js </b>
 
 -  🎓 I’m looking for **Job**
 
 - 👨🏻‍🔧 I love to learn and work on different projects.
 
-- 🖊️ Recently I started writing blogs [![Generic badge](https://img.shields.io/badge/DEV-black.svg?style=for-the-badge)](https://dev.to/vaishnavme)
+- 🖊️ I also write blogs on Dev Community. [View Blog](https://dev.to/vaishnavme)
 
 ## Recent Projects
 - [Quizzer App](https://quizzerme.netlify.app) - Simple Quiz App built with HTML, CSS and Vanilla JavaScript.
